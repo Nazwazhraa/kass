@@ -1,0 +1,11 @@
+.tab-pane {
+    padding: 15px 0px 15px 0px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
